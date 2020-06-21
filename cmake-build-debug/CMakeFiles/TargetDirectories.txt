@@ -1,0 +1,3 @@
+/home/noasck/CLionProjects/mlp_for_mnist/cmake-build-debug/CMakeFiles/rebuild_cache.dir
+/home/noasck/CLionProjects/mlp_for_mnist/cmake-build-debug/CMakeFiles/edit_cache.dir
+/home/noasck/CLionProjects/mlp_for_mnist/cmake-build-debug/CMakeFiles/mlp_for_mnist.dir

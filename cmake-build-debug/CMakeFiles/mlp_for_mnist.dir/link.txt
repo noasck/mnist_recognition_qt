@@ -1,0 +1,2 @@
+/usr/bin/ar qc libmlp_for_mnist.a  CMakeFiles/mlp_for_mnist.dir/mnistrec.cpp.o
+/usr/bin/ranlib libmlp_for_mnist.a

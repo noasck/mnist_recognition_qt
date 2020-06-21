@@ -1,0 +1,34 @@
+#IncludeRegexLine: ^[ 	]*[#%][ 	]*(include|import)[ 	]*[<"]([^">]+)([">])
+
+#IncludeRegexScan: ^.*$
+
+#IncludeRegexComplain: ^$
+
+#IncludeRegexTransform: 
+
+/home/noasck/CLionProjects/mlp_for_mnist/mnistrec.cpp
+iostream
+-
+fstream
+-
+stdio.h
+-
+stdlib.h
+-
+iomanip
+-
+Eigen/Dense
+-
+cmath
+-
+vector
+-
+mnistrec.h
+/home/noasck/CLionProjects/mlp_for_mnist/mnistrec.h
+
+/home/noasck/CLionProjects/mlp_for_mnist/mnistrec.h
+Eigen/Dense
+-
+vector
+-
+
